@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Harris 👋
 
-<!--
-**h23o/h23o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student, building end-to-end data pipelines and full-stack applications. I like taking messy, real-world data and turning it into something reliable and useful.
 
-Here are some ideas to get you started:
+📍 London, UK
+📧 harrisonyenwe@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I work with
+
+Languages: Python · TypeScript · JavaScript · Java · SQL · HTML/CSS
+Frameworks & Libraries: Next.js · React · FastAPI · Spring Boot · Spring Security · Spring Data JPA · Hibernate · pandas · NumPy · dbt · vectorbt
+Databases: PostgreSQL · MySQL · Supabase · SQLite
+Tools: Git · Docker · Linux · REST APIs · ETL pipelines · Agile · Unit & Integration Testing

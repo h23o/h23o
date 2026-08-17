@@ -1,10 +1,8 @@
-## Harris Onyenwe
 
-Software and data engineer based in London. BSc Computer Science (First Class), University of Leicester.
+
+Software and data engineer based in London. BSc Computer Science
 
 I build data pipelines and AI services — mostly Python, TypeScript and SQL. Currently building and looking for graduate engineering roles.
-
-📫 harrisonyenwe@gmail.com · [LinkedIn](https://www.linkedin.com/in/harris-onyenwe/) · [Portfolio](https://www.harrisonyenwe.tech)
 
 ---
 

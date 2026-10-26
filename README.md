@@ -1,8 +1,8 @@
 
 
-Software and data engineer based in London. BSc Computer Science
+ BSc Computer Science
 
-I build data pipelines and AI services — mostly Python, TypeScript and SQL. Currently building and looking for graduate engineering roles.
+
 
 ---
 
